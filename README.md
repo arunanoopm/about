@@ -19,7 +19,6 @@
 ###### VRINDA A	Trust and Reputation Management for Secure communication in DTNs 2 YEARS
 ###### PRATHYUSHA	Security Methods in Publish/Subscribe systems 1 YEAR
 ## Journals
-###  Arun
 ###### Arun Anoop M, "Detecting Replay attack in key management over SCADA Communication network" , IJCAES, IJCAES(International Journal, Sikkim Institute Of Technology,Vol.1,Issue1).
 ###### Vidya K S1, Arun Anoop M2, "Lifetime Enhanced Cluster Based Routing in Wireless Sensor Networks", , ijesi.
 ###### 1Vrinda A, 2Mr. Arun Anoop M, "Securing Images using Encryption Techniques-A Survey", IJCAT, Volume 1, Issue 2, March 2014.
