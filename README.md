@@ -67,12 +67,10 @@
 
 ## Anna University Annexure-1
 ######  Arun Anoop M, Poonkuntran S,” Study of Multimedia Security: Multimedia Forgery Detection and History-A Survey,” International Journal of Printing, Packaging & Allied Sciences(Anna university-Annexure-1), Vol. 4, No. 4, December 2016
-######  Arun Anoop M, Poonkuntran S,  Certain investigation on Biomedical impression and Image Forgery Detection, International Journal of Biomedical Engineering and  Technology , IJBET, http://www.inderscience.com/info/ingeneral/forthcoming.php?jcode=ijbet
-DOI:10.1504/IJBET.2018.10023469
+######  Arun Anoop M, Poonkuntran S,  Certain investigation on Biomedical impression and Image Forgery Detection, International Journal of Biomedical Engineering and  Technology , IJBET, http://www.inderscience.com/info/ingeneral/forthcoming.php?jcode=ijbet, DOI:10.1504/IJBET.2018.10023469
 ###### Arun  Anoop  M,  Poonkuntran  S,”LPG-A  NOVEL  APPROACH  FOR MEDICAL FORGERY DETECTION IN IMAGE TRANSMISSION” , Journal of Ambient Intelligence and Humanized Computing (2020), DOI:  10.1007/s12652-020-01932-0(Anna University Annexure-1)
 ## Scopus-Indexed
-######  Arun Anoop M, Poonkuntran S, Certain investigation on Biomedical impression and Image Forgery Detection, International Journal of Biomedical Engineering and  Technology , IJBET, http://www.inderscience.com/info/ingeneral/forthcoming.php?jcode=ijbet
-	DOI:10.1504/IJBET.2018.10023469
+######  Arun Anoop M, Poonkuntran S, Certain investigation on Biomedical impression and Image Forgery Detection, International Journal of Biomedical Engineering and  Technology,IJBET, http://www.inderscience.com/info/ingeneral/forthcoming.php?jcode=ijbet,DOI:10.1504/IJBET.2018.10023469
 ######  Arun Anoop M, Dr.S.Poonkuntran, Dr.V.Vasudevan, Dr.P.Alli,”Study of the importance of digital forensics and deep learning tools", International Journal of Advanced Science and Technology ,Vol. 28, No. 20, (2019), pp. 963-978.[Scopus Indexed Journal].
 
 ## Books Published
