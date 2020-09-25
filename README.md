@@ -8,8 +8,8 @@
 ###### M.Tech Information Technology, Kalasalingam University, Krishnankoil, Tamilnadu(2009-11).
 ###### Ph.D. (Information Communication & Engineering) under Anna University, Chennai(Jan2016-Present @ VCET-Madurai).
 
-######## Google Scholar page : http://scholar.google.co.in/citations?user=HKB5-8gAAAAJ&hl=en
-######## Researchgate page: https://www.researchgate.net/profile/Arun_Mandankandy?ev=hdr_xprf
+###### Google Scholar page : http://scholar.google.co.in/citations?user=HKB5-8gAAAAJ&hl=en
+###### Researchgate page: https://www.researchgate.net/profile/Arun_Mandankandy?ev=hdr_xprf
 
 ## Teaching
 ###### Teaching Assistant, Kalasalingam University, Krishnankoil, Tamilnadu(2010).
